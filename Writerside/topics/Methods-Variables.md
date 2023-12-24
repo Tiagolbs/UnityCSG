@@ -46,5 +46,5 @@ private float _variableName = 1.5f;
 
 - Public variables must be in **PascalCase**;
 ```c#
-float VariableName = 1.5f;
+public float VariableName = 1.5f;
 ```
