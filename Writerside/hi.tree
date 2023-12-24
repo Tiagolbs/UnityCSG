@@ -4,9 +4,9 @@
 
 <instance-profile id="hi"
                  name="Code Style Guide"
-                 start-page="Default-topic.md">
+                 start-page="Methods-Variables.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Methods-Variables.md"/>
     <toc-element topic="Folders.md"/>
     <toc-element topic="Code-Rules.md"/>
     <toc-element topic="Example.md"/>
